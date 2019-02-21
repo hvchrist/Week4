@@ -1,0 +1,14 @@
+header{
+  border: 18px solid blue;
+}
+
+footer{
+  border: 18px solid pink;
+}
+
+nav{
+  border: 18px solid green;
+}
+article{
+  border: 18px solid lightblue;
+}
